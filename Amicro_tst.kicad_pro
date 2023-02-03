@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.27,
-          "height": 2.032,
-          "width": 2.032
+          "drill": 0.0,
+          "height": 1.4,
+          "width": 1.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Arduino_Micro.kicad_pro",
+    "filename": "Amicro_tst.kicad_pro",
     "version": 1
   },
   "net_settings": {
