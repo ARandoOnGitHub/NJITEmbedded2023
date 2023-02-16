@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.27,
-          "height": 2.032,
-          "width": 2.032
+          "drill": 0.5,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Arduino_Micro.kicad_pro",
+    "filename": "Amicro_tst.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -386,12 +386,12 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "Amicro_tst.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Amicro_tst.step",
+      "vrml": "Amicro_tst.wrl"
     },
     "page_layout_descr_file": ""
   },
