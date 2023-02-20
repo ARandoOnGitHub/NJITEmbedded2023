@@ -390,8 +390,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Amicro_tst.step",
-      "vrml": "Amicro_tst.wrl"
+      "step": "3d/Amicro_tst.step",
+      "vrml": "3d/Amicro_tst.wrl"
     },
     "page_layout_descr_file": ""
   },
