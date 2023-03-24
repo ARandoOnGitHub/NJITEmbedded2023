@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.8)"
     },
-    "CreationDate": "2023-02-20T15:23:30-05:00"
+    "CreationDate": "2023-03-24T12:53:59-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -26,7 +26,7 @@
       "Layers": "Outer",
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
-      "TrackToTrack": 0.2,
+      "TrackToTrack": 0.15,
       "MinLineWidth": 0.25
     }
   ],
@@ -74,6 +74,16 @@
     {
       "Path": "Amicro_tst-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Amicro_tst-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Amicro_tst-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
