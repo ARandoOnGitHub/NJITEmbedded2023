@@ -1,0 +1,20 @@
+### Module positions - created on Fri Mar 31 11:48:35 2023 ###
+### Printed by Pcbnew version (6.0.8)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                     PosX       PosY       Rot  Side
+C4        22pf         C_0402_1005Metric                        28.9560    -6.7310    0.0000  top
+C5        22pf         C_0402_1005Metric                        24.6100    -6.7310    0.0000  top
+D1        LED          LED_0805_2012Metric                      25.1460   -19.3040  180.0000  top
+J1        Sensor       JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical    43.9420   -24.6380  180.0000  top
+J2        Progm        PinSocket_1x05_P1.00mm_Vertical          45.4340    -2.5760  -90.0000  top
+J3-       Vibr         PinSocket_1x05_P1.00mm_Vertical          11.9380   -26.1620  180.0000  top
+J5+       Motor_Pow    PinSocket_1x04_P1.00mm_Vertical           7.9100   -25.9625  180.0000  top
+R1        1k           R_0402_1005Metric                        27.6860   -19.0500  -90.0000  top
+R3        4.7k         R_0402_1005Metric                        51.0540   -19.1770  -90.0000  top
+R4        4.7k         R_0402_1005Metric                        53.5940   -19.1770  -90.0000  top
+SW1       RESET        SW_SPST_B3U-1000P-B                      43.4340    -5.3340    0.0000  top
+U1        ATmega328-P  DIP-28_W7.62mm_Socket                    46.9900    -8.8900  -90.0000  top
+U2        24LC512      DIP-8_W7.62mm_Socket                     58.6640    -8.9000  -90.0000  top
+Y1        Crystal      Crystal_HC49-4H_Vertical                 24.1300    -3.3020    0.0000  top
+## End

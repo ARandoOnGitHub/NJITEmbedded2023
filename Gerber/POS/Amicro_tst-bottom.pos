@@ -1,0 +1,21 @@
+### Module positions - created on Fri Mar 31 11:48:35 2023 ###
+### Printed by Pcbnew version (6.0.8)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val        Package                   PosX       PosY       Rot  Side
+C1        .1uf       C_0402_1005Metric     -30.4800   -14.7320    0.0000  bottom
+C3        .1uf       C_0402_1005Metric     -30.4800   -12.4460  -90.0000  bottom
+Q1        Q_NPN_BEC  SC-59_Handsoldering   -16.0020   -23.6220  -90.0000  bottom
+Q2        Q_NPN_BEC  SC-59_Handsoldering   -20.8280   -23.6220  -90.0000  bottom
+Q3        Q_NPN_BEC  SC-59_Handsoldering   -25.6540   -23.6220  -90.0000  bottom
+Q4        Q_NPN_BEC  SC-59_Handsoldering   -30.4800   -23.6220  -90.0000  bottom
+R2        10k        R_0402_1005Metric     -45.9740   -10.6680    0.0000  bottom
+R5        1k         R_0402_1005Metric     -13.9700   -19.0480  -90.0000  bottom
+R6        1k         R_0402_1005Metric     -16.5100   -19.0480  -90.0000  bottom
+R7        1k         R_0402_1005Metric     -19.0500   -19.0480  -90.0000  bottom
+R8        33         R_0402_1005Metric      -9.9420   -23.1140    0.0000  bottom
+R9        33         R_0402_1005Metric      -9.9420   -24.1300    0.0000  bottom
+R10       33         R_0402_1005Metric      -9.9420   -25.1480    0.0000  bottom
+R11       33         R_0402_1005Metric      -9.9420   -26.1660    0.0000  bottom
+R12       1k         R_0402_1005Metric     -21.5900   -19.0500  -90.0000  bottom
+## End
